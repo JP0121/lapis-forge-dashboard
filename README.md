@@ -97,5 +97,3 @@ Add more in `server/config/feedSources.js`.
 - CORS locked to your domain
 - Input validation on all endpoints
 - MongoDB injection protection via Mongoose
-
-Never commit `.env` — it's in `.gitignore`.
