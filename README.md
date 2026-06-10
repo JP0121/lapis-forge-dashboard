@@ -28,7 +28,6 @@ Open `server/.env` and fill in:
 | `ADMIN_USERNAME` | Your login username |
 | `ADMIN_PASSWORD` | Your login password (min 8 chars) |
 | `CLIENT_URL` | `https://news.lapisforge.com` in prod, leave blank for dev |
-| `CRYPTOPANIC_API_KEY` | Optional — add later for CryptoPanic feed |
 | `ANTHROPIC_API_KEY` | Optional — required for AI digest in Analytics |
 
 ### 3. Create your admin account (run once)
