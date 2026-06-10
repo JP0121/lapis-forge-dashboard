@@ -8,7 +8,7 @@ Full-stack news, DePIN, and AI intelligence hub. Built with MERN stack.
 
 ### 1. Clone & install
 ```bash
-git clone https://github.com/YOUR_USERNAME/lapis-forge-dashboard.git
+git clone https://github.com/JP0121/lapis-forge-dashboard.git
 cd lapis-forge-dashboard
 npm run install:all
 ```
