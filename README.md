@@ -1,6 +1,7 @@
 # Lapis Forge Intelligence Dashboard
 
 Full-stack news, DePIN, and AI intelligence hub. Built with MERN stack.
+<img width="1918" height="928" alt="image" src="https://github.com/user-attachments/assets/72dccfc4-3141-4df3-9d09-e0ed20782417" />
 
 ---
 
